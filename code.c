@@ -1,6 +1,6 @@
 #iclude <stdio.h>
 
-itn main(){
+int main(){
 	printf("salam hashem!");
 	return 0;
 }
